@@ -1,0 +1,14 @@
+[
+    {
+        "path": "home",
+        "url": "http://home.falafel.cc:8123/dashboard-tablet/home"
+    },
+    {
+        "path": "car",
+        "url": "http://home.falafel.cc:8123/dashboard-tablet/car"
+    },
+    {
+        "path": "protect",
+        "url": "http://home.falafel.cc:8123/dashboard-tablet/protect"
+    }
+]
