@@ -1,14 +1,18 @@
 [
     {
         "path": "home",
-        "url": "http://home.falafel.cc:8123/dashboard-tablet/home"
+        "url": "https://home.falafel.cc/dashboard-tablet/home"
     },
     {
         "path": "car",
-        "url": "http://home.falafel.cc:8123/dashboard-tablet/car"
+        "url": "https://home.falafel.cc/dashboard-tablet/car"
     },
     {
         "path": "protect",
-        "url": "http://home.falafel.cc:8123/dashboard-tablet/protect"
+        "url": "https://home.falafel.cc/dashboard-tablet/protect"
+    },
+    {
+        "path": "protector",
+        "url": "https://192.168.1.1/protect/dashboard/all"
     }
 ]
